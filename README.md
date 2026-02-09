@@ -4,7 +4,6 @@ my protfolio! > https://suthiphong-suthonadisonwong.web.app/
 I'm a final-year Computer Engineering student passionate about **Infrastructure, Networking, and Automation**.
 I love connecting things—whether it's IoT sensors via LoRaWAN or Microservices via Docker.
 
-- 🔭 I’m currently working on: **Smart Wheelchair & Patient Tracking System**
 - 💼 Internship experience: **National Telecom (NT)** & **Phuket Marriott Resort**
 - 🌱 I’m currently learning: **Advanced DevOps & Cloud Architecture**
 - 🏆 Badges: **AWS Cloud Foundations**, **CCNA Intro**, **LFS101**
